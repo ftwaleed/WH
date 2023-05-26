@@ -1,0 +1,107 @@
+{
+    "questions": [
+      {
+        "question": "The product of the place values of two 2's in 428721 is ?",
+        "options": [
+          "a) 4",
+          "b) 40000",
+          "c) 400000",
+          "d) 40000000"
+        ],
+        "answer": "c) 400000"
+      },
+      {
+        "question": "3x10000 + 7x1000 + 9 x 100 +0 x 10 + 4 is the same as",
+        "options": [
+          "a) 3794",
+          "b) 37940",
+          "c) 37904",
+          "d) 379409"
+        ],
+        "answer": "c) 37904"
+      },
+      {
+        "question": "If 1 is added to the greatest 7-digit number, it will be equal to",
+        "options": [
+          "a) 10 thousand",
+          "b) 1 lakh",
+          "c) 10 lakh",
+          "d) 1 crore"
+        ],
+        "answer": "c) 10 lakh"
+      },
+      {
+        "question": "The expanded form of the number 9578 is",
+        "options": [
+          "a) 9 x 10000 +5 x 1000 +7 x 10 +8x1",
+          "b) 9 x 1000 + 5 x 100 +7 x 10 + 8 x 1",
+          "c) 9 x 1000 + 57 x 10 + 8 x 1",
+          "d) 9 x 100 + 5 x 100 +7 x 10 + 8 x 1"
+        ],
+        "answer": "b) 9 x 1000 + 5 x 100 +7 x 10 + 8 x 1"
+      },
+      {
+        "question": "In Following option which pair is not coprime? a) 8,10",
+        "options": [
+          "a) 11,12",
+          "b) 1,3",
+          "c) 31,33",
+		  "d) 8,10"
+        ],
+        "answer": "d) 8,10"
+      },
+      {
+        "question": "Between 58 and 80 what will be the number of even number?",
+        "options": [
+          "a) A 13",
+          "b) 12",
+          "c) 11",
+          "d) 10"
+        ],
+        "answer": "a) A 13"
+      },
+      {
+        "question": "What will be the sum of the prime factor of 1729 is?",
+        "options": [
+          "a) 39",
+          "b) 32",
+          "c) 34",
+          "d) 38"
+        ],
+        "answer": "a) 39"
+      },
+      {
+        "question": "Number divisible by 5 and 6. But not be divisible by?",
+        "options": [
+          "a) 60",
+          "b) 30",
+          "c) 15",
+          "d) 10"
+        ],
+        "answer": "a) 60"
+      },
+	  
+      {
+        "question": "What is the predecessor of 1 Lakh is?",
+        "options": [
+            "a) 99999",
+            "b) 999999",
+            "c) 99000",
+            "d) 100001"
+        ],
+        "answer": "a) 99999"
+		},
+        {
+        "question": "LCM of 20,15 and 10 is",
+        "options": [
+        "a) 60",
+        "b) 180",
+        "c) 90",
+        "d) 30"
+        ],
+        "answer": "a) 60"
+        }
+        ]
+    }
+        
+  
